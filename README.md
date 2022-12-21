@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maluamaral
-- 👀 I’m interested in arts, cats, tecnology, design and programming apps and better soluctions
+- 👀 I’m interested in arts, cats, tecnology, design and programming apps and better solutions
 - 🌱 I’m currently learning about design and iOS development.
 
 <!---
